@@ -63,3 +63,31 @@ a {
   border-radius: 8px;
   border: none;
 }
+
+.container {
+  height: 50hv;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 6rem 20.5rem;
+  gap: 1.5rem;
+}
+
+.sobre__texto {
+  color: var(--contrast-color);
+  font-weight: 600;
+}
+
+.sobre__titulo {
+  color: var(--title-color);
+  font-weight: 600;
+  font-size: 3rem;
+  margin-bottom: 2.25rem;
+  letter-spacing: -0.02em;
+}
+
+.sobre__descricao {
+  font-size: 1.25rem;
+  color: var(--text-color);
+  line-height: 30px;
+}
