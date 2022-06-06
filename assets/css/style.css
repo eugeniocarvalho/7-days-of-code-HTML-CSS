@@ -56,12 +56,20 @@ a {
   gap: 1rem;
 }
 
+.cabecalho__botoes-entrar {
+  border: none;
+  cursor: pointer;
+  background-color: transparent;
+  padding: 10px 18px;
+}
+
 .cabecalho__botoes-cadastrar {
   color: white;
   background-color: var(--contrast-color);
   padding: 10px 18px;
   border-radius: 8px;
   border: none;
+  cursor: pointer;
 }
 
 .container__sobre {
