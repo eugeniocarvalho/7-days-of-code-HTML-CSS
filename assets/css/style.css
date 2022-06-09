@@ -195,3 +195,41 @@ a {
   font-weight: 500;
   margin-right: 1.5rem;
 }
+
+.colaboradores__container {
+  margin: 0 7rem 3rem 7rem;
+  background-color: var(--bg-constrat-color);
+  text-align: center;
+}
+
+.colaboradores__destaque {
+  font-size: 0.875rem;
+  font-weight: 600;
+  padding: 4rem 0 1rem 0;
+  color: var(--contrast-color);
+}
+
+.colaboradores__titulo {
+  font-size: 2.25rem;
+  color: var(--title-color);
+  font-weight: 500;
+  line-height: 2.75rem;
+}
+
+.colaboradores__imagem {
+  margin: 2rem 0 1rem 0;
+}
+
+.colaboradores__autor {
+  font-size: 1rem;
+  color: var(--title-color);
+  font-weight: 500;
+  margin-bottom: 0.25rem;
+}
+
+.colaboradores__cargo {
+  font-size: 0.875rem;
+  color: var(--text-color);
+  font-weight: 400;
+  padding-bottom: 4rem;
+}
