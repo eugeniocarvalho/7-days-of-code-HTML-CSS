@@ -1,3 +1,5 @@
 .container__vaga {
-  padding: 0 21rem 2rem 21rem;
+  /* padding: 0 21rem 2rem 21rem; */
+  margin: 0 auto;
+  width: 50%;
 }

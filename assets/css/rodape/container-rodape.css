@@ -1,5 +1,6 @@
 .container__rodape {
   background-color: var(--bg-rodape-color);
-  padding: 6rem 21rem;
+  padding: 6rem 0;
+  margin: 0 auto;
   text-align: center;
 }

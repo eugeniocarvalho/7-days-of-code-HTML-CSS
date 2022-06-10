@@ -1,4 +1,5 @@
 .sobre__descricao {
+  width: 60%;
   font-size: 1.25rem;
   color: var(--text-color);
   line-height: 30px;
