@@ -159,6 +159,7 @@ a {
 
 .talento__imagem {
   margin-top: 4rem;
+  width: calc(100% - 200px);
 }
 
 .container__vaga {
