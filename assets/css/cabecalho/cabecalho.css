@@ -1,0 +1,11 @@
+.cabecalho, .cabecalho__menu, .cabecalho__logo, .cabecalho__lista, .cabecalho__botoes {
+  display: flex;
+  align-items: center;
+  font-weight: 500;
+}
+
+.cabecalho {
+  align-items: center;
+  justify-content: space-around;
+  margin: 1rem 0;
+}

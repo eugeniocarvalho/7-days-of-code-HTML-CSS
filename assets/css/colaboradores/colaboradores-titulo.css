@@ -1,0 +1,6 @@
+.colaboradores__titulo {
+  font-size: 2.25rem;
+  color: var(--title-color);
+  font-weight: 500;
+  line-height: 2.75rem;
+}

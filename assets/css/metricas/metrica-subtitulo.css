@@ -1,0 +1,6 @@
+.metrica__subtitulo {
+  font-size: 1.125rem;
+  font-weight: 500;
+  color: var(--title-color);
+  margin-bottom: .5rem;
+}

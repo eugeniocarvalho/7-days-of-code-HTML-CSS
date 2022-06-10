@@ -1,0 +1,6 @@
+.talento__destaque {
+  color: var(--contrast-color);
+  background-color: var(--bg-constrat-color);
+  border-radius: 1rem;
+  padding: 4px 12px;
+}

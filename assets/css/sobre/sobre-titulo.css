@@ -1,0 +1,7 @@
+.sobre__titulo {
+  color: var(--title-color);
+  font-weight: 600;
+  font-size: 3rem;
+  margin-bottom: 2.25rem;
+  letter-spacing: -0.02em;
+}

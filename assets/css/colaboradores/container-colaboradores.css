@@ -1,0 +1,6 @@
+.container__colaboradores {
+  margin: 0 7rem 3rem 7rem;
+  background-color: var(--bg-constrat-color);
+  text-align: center;
+  border-radius: 16px;
+}

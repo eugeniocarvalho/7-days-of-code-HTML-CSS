@@ -1,0 +1,6 @@
+.container__metricas {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 1rem 8rem 5rem 8rem;
+  gap: 1.2rem;
+}

@@ -1,0 +1,23 @@
+:root {
+  --bg-color: #FFFFFF;
+  --logo-text-color: #3A404E;
+  --title-color: #101828;
+  --text-color: #667085;
+  --contrast-color: #8E2424;
+  --bg-constrat-color: rgba(142, 36, 36, 0.05);
+  --border-color: rgba(234, 236, 240, 1);
+  --copy-color: rgba(152, 162, 179, 1);
+  --bg-rodape-color:  #F9FAFB;
+  --input-border-color: #D0D5DD;
+  --font-family: 'Inter';
+
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+}

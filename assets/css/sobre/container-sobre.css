@@ -1,0 +1,8 @@
+.container__sobre {
+  height: 50hv;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 6rem 20.5rem;
+  gap: 1.5rem;
+}

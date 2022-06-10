@@ -1,0 +1,7 @@
+.formulario__botao {
+  color: var(--bg-color);
+  background-color: var(--contrast-color);
+  border: none;
+  padding: 12px 20px;
+  border-radius: 8px;
+}

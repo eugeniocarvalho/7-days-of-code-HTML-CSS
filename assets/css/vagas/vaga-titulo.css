@@ -1,0 +1,10 @@
+.vaga__titulo {
+  font-size: 1.25rem;
+  color: var(--title-color);
+  font-weight: 500;
+}
+
+.vaga__titulo:nth-of-type(2) {
+  display: block;
+  padding-top: 2rem;
+}
