@@ -17,3 +17,9 @@
   border: none;
   cursor: pointer;
 }
+
+@media screen and (max-width: 768px) {
+  .cabecalho__botoes-entrar {
+    margin-top: 2rem;
+  }
+}

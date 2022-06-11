@@ -9,3 +9,9 @@
   justify-content: space-around;
   margin: 1rem 0;
 }
+
+@media screen and (max-width: 768px) {
+  .cabecalho, .cabecalho__menu, .cabecalho__logo, .cabecalho__lista, .cabecalho__botoes {
+    flex-direction: column;
+  }
+}

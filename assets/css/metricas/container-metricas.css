@@ -5,9 +5,23 @@
   gap: 1.2rem;
 }
 
+@media screen and (max-width: 425px) {
+  .container__metricas {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container__metricas {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 @media screen and (max-width: 1024px) {
   .container__metricas {
     margin: auto;
     padding: 3rem;
   }
 }
+

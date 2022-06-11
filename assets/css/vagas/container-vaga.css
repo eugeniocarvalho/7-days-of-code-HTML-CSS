@@ -3,3 +3,9 @@
   margin: 0 auto;
   width: 50%;
 }
+
+@media screen and (max-width: 425px){
+  .container__vaga {
+    width: 80%;
+  }
+}

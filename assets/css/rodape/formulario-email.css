@@ -4,3 +4,9 @@
   border-radius: 8px;
   border: 1px solid var(--input-border-color);
 }
+
+@media screen and (max-width: 425px) {
+  .formulario__email {
+    width: 10rem;
+  }
+}
